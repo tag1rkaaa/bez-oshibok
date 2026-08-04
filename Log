@@ -1,0 +1,17 @@
+C:\Users\sayap\AppData\Local\Programs\Python\Python314\python.exe C:\Users\sayap\OneDrive\Desktop\BOT\beoshibok\main.py 
+2026-06-11 14:01:29,964 - dispatcher - INFO - Бот: @bashnamebot first_name=Город без ошибок. Башкортостан id=166265195
+2026-06-11 14:01:29,966 - dispatcher - INFO - Зарегистрировано 11 обработчиков событий
+2026-06-11 14:01:33,749 - dispatcher - INFO - Обработано: router_id: 2498060013584 | message_callback | chat_id: 76145632, user_id: 224453259
+2026-06-11 14:01:38,733 - dispatcher - INFO - Обработано: router_id: 2498060013584 | message_created | chat_id: 76145632, user_id: 224453259
+2026-06-11 14:01:40,233 - dispatcher - INFO - Обработано: router_id: 2498060013584 | message_callback | chat_id: 76145632, user_id: 224453259
+2026-06-11 14:01:41,043 - dispatcher - INFO - Обработано: router_id: 2498060013584 | message_callback | chat_id: 76145632, user_id: 224453259
+2026-06-11 14:01:51,175 - maxapi_bot - INFO - ADMIN GROUP MSG: body=MessageBody(mid='mid.ffffbb16cc883775019eb5ea8ec44dc3', seq=116730659380415939, text='@bashnamebot и тебе привет', attachments=[], markup=[])
+2026-06-11 14:01:51,176 - maxapi_bot - INFO - ADMIN body.text='@bashnamebot и тебе привет'
+2026-06-11 14:01:51,176 - maxapi_bot - INFO - ADMIN body.markup=[]
+2026-06-11 14:01:51,176 - maxapi_bot - INFO - ADMIN message.link=LinkedMessage(type=<MessageLinkType.REPLY: 'reply'>, sender=User(user_id=166265195, first_name='Город без ошибок. Башкортостан', last_name=None, username='bashnamebot', is_bot=True, last_activity_time=1781168509707, description=None, avatar_url=None, full_avatar_url=None, commands=None), chat_id=-75768381556875, message=MessageBody(mid='mid.ffffbb16cc883775019eb5ea681450c9', seq=116730658731348169, text='Обращение #5\nИмя пользователя: Тагир\nЛогин MAX: @Нет\nID аккаунта MAX: 224453259\nChat ID: 76145632\n\nТекст обращения: привет', attachments=[], markup=[]))
+2026-06-11 14:01:51,177 - maxapi_bot - INFO - ADMIN link.type=<MessageLinkType.REPLY: 'reply'> link.type.value='reply'
+2026-06-11 14:01:51,177 - maxapi_bot - INFO - ADMIN link.message=MessageBody(mid='mid.ffffbb16cc883775019eb5ea681450c9', seq=116730658731348169, text='Обращение #5\nИмя пользователя: Тагир\nЛогин MAX: @Нет\nID аккаунта MAX: 224453259\nChat ID: 76145632\n\nТекст обращения: привет', attachments=[], markup=[])
+2026-06-11 14:01:51,177 - maxapi_bot - INFO - ADMIN bot.me=User(user_id=166265195, first_name='Город без ошибок. Башкортостан', last_name=None, username='bashnamebot', is_bot=True, last_activity_time=1781168488598, description='Сервис для отправки  обращений по поводу ошибок на вывесках, дорожных указателях, в названиях улиц, остановок и других надписях в городах и селах Республики Башкортостан.', avatar_url='https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HiVxSXysh7J8NMia069M8fLXf-mj2jJhhFu2_mwCb3mOE', full_avatar_url='https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HiTGjd3QwsIWE2nTuocQVxaHf-mj2jJhhFu2_mwCb3mOE', commands=None)
+2026-06-11 14:01:51,178 - maxapi_bot - INFO - ADMIN bot_id=166265195, markup items=0
+2026-06-11 14:01:51,178 - maxapi_bot - INFO - ADMIN bot_mention=None
+2026-06-11 14:01:51,178 - dispatcher - INFO - Обработано: router_id: 2498060013584 | message_created | chat_id: -75768381556875, user_id: 224453259
